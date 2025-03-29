@@ -126,7 +126,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # Static files (CSS, JavaScript, Images)
 STATIC_URL = '/static/'
 
-# Media files (para imágenes subidas por el usuario)
+# Media files (para imágenes subidas por el usuario)h
 import os
 
 MEDIA_URL = '/media/'
